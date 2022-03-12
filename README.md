@@ -1,1 +1,2 @@
 # Portfolio
+This is a collection of some of the work I've done over the last few years of college. Most of these programs where created on visual studio code and visual studio. Some of these projects are things I did on my personal time while others we completed for school work as projects. Overall, I had a blast working on all of these projects and learning new things over the past few years. Thank you for taking the time to take a peak through my work! 
